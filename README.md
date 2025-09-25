@@ -3,3 +3,4 @@
 První testovací commit z lokálního notebooku v učebně H71 (2025-09-25, 13:31).
 
 Druhý testovací commit přimo z GitHubu (2025-09-25, 13:48)
+ZMENA
