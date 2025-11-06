@@ -1,0 +1,15 @@
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\bin\Debug\net9.0\program000b-generator-cisel.exe
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\bin\Debug\net9.0\program000b-generator-cisel.deps.json
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\bin\Debug\net9.0\program000b-generator-cisel.runtimeconfig.json
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\bin\Debug\net9.0\program000b-generator-cisel.dll
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\bin\Debug\net9.0\program000b-generator-cisel.pdb
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\obj\Debug\net9.0\program000b-generator-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\obj\Debug\net9.0\program000b-generator-cisel.AssemblyInfoInputs.cache
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\obj\Debug\net9.0\program000b-generator-cisel.AssemblyInfo.cs
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\obj\Debug\net9.0\program000b-generator-cisel.csproj.CoreCompileInputs.cache
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\obj\Debug\net9.0\program000b-generator-cisel.sourcelink.json
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\obj\Debug\net9.0\program000b-generator-cisel.dll
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\obj\Debug\net9.0\refint\program000b-generator-cisel.dll
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\obj\Debug\net9.0\program000b-generator-cisel.pdb
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\obj\Debug\net9.0\program000b-generator-cisel.genruntimeconfig.cache
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program000b-generator-cisel\obj\Debug\net9.0\ref\program000b-generator-cisel.dll
