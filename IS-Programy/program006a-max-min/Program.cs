@@ -89,6 +89,55 @@ while (again == "a")
     Console.WriteLine("********************************************");
     Console.WriteLine();
 
+    if (max >= 3)
+    {
+
+        Console.WriteLine();
+        Console.WriteLine("********************************************");
+        Console.WriteLine();
+        Console.WriteLine($"Presypaci hodiny o velikost {max}:");
+        Console.WriteLine();
+
+        for (int i = 0; i < max; i++) ;
+        {
+            int spaces, stars;
+
+            if (i < max / 2)
+            {
+                spaces = i;
+                stars = max - 2 * i;
+            }
+            else
+            {
+                spaces = max - i - 1;
+                if (max % 2 == 1)
+                {
+                    stars = 2 * (i - max / 2) + 1;
+                }
+                else
+                {
+                    stars = 2 * (i - max / 2) + 1;
+                }
+
+            }
+            Console.ForegroundColor = ConsoleColor
+            for (int sp = 0; sp < spaces; sp++) ;
+            Console.Write(" ");
+
+            for (int st = 0; st < stars; st++) ;
+            Console.Write("*");
+
+            Console.WriteLine();
+
+        }
+
+
+    }
+    else
+    {
+        Console.WriteLine("Maximum je mensi nez 3 => obrazec se nebude vykreslovat!!!");
+    }
+
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
