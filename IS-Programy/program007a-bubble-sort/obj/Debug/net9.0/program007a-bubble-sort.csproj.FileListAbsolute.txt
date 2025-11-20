@@ -1,0 +1,5 @@
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.AssemblyInfoInputs.cache
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.AssemblyInfo.cs
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\filip\aaa\IS-2025-SK2\github-fv-is-2025-sk2\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.sourcelink.json
