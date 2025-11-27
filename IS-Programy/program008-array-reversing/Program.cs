@@ -59,8 +59,20 @@ while (again == "a")
 
     }
 
+    for (int i = 0; i < n / 2; i++)
+    {
+        int tmp = myRandNumbs[i];
+        myRandNumbs[i] = myRandNumbs[n - i - 1];
+        myRandNumbs[n - i - 1] = tmp;
+    }
 
+    Console.WriteLine();
+    Console.WriteLine("********************************************");
 
+    for (int i = 0; i < n; i++)
+    {
+        Console.WriteLine("{0};", myRandNumbs[i]);
+    }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
